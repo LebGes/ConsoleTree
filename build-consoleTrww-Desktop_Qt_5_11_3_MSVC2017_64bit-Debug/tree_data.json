@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Root"
+    },
+    {
+        "id": 3,
+        "name": "Child 2"
+    },
+    {
+        "id": 2,
+        "name": "Child 1"
+    },
+    {
+        "id": 5,
+        "name": "Grandchild 2"
+    },
+    {
+        "id": 4,
+        "name": "Grandchild 1"
+    }
+]
