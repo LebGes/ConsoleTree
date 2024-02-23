@@ -33,7 +33,7 @@ int main(int argc, char *argv[]) {
         tree.insertNode(1, 2, "Child 1");
         tree.insertNode(1, 3, "Child 2");
         tree.insertNode(2, 4, "Grandchild 1");
-        tree.insertNode(2, 5, "Grandchild 2");
+        tree.insertNode(2, 5, "Grandchild 3");
     while(variable != 0)
     {
         tree.printTree();
